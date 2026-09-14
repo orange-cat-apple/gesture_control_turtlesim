@@ -10,7 +10,7 @@ Real-time hand-gesture teleoperation node using OpenCV, MediaPipe Hands, and ROS
 
 ```bash
 # Clone the repository
-git clone <YOUR_REPO_URL>
+git clone https://github.com/orange-cat-apple/gesture_control_turtlesim
 cd gesture_teleop
 
 # Create and activate venv with access to system ROS 2 packages
